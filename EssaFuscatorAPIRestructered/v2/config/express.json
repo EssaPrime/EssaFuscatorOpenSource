@@ -1,0 +1,8 @@
+{
+    "Port":80,
+    "Filelimit":"15mb",
+    "RateLimitMS":1000,
+    "RateLimitWhitelist": [
+        "VPS.IP.FROM.HOST"
+    ]
+}
