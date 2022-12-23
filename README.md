@@ -10,7 +10,7 @@ A Lua Obfuscation System Created For CfxLua (5.3-5.4)
 - [/EssaFuscatorBotDeployable](https://github.com/EssaPrime/EssaFuscatorOpenSource/tree/main/EssaFuscatorBotDeployable) - An Example Bot For Your Server, uses the essafuscator npm package.
 - [/EssaFuscatorMain](https://github.com/EssaPrime/EssaFuscatorOpenSource/tree/main/EssaFuscatorMain/EssaFuscator) - Obfuscator Source.
 - [/EssaFuscatorPackageV2](https://github.com/EssaPrime/EssaFuscatorOpenSource/tree/main/EssaFuscatorMain/EssaFuscatorPackageV2) - The Design Package.
-- [/EssaFuscatorPackageV2](https://github.com/EssaPrime/EssaFuscatorOpenSource/tree/main/EssaFuscatorWebsite) - The Frontend Website.
+- [/EssaFuscatorWebsite](https://github.com/EssaPrime/EssaFuscatorOpenSource/tree/main/EssaFuscatorWebsite) - The Frontend Website.
 
 
 
