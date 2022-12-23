@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "EssaFuscator/1.0.0": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.6.0-preview.18571.3"
+        },
+        "runtime": {
+          "EssaFuscator.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.6.0-preview.18571.3": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.7.18.57103"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.6.0-preview.18571.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0-preview.18571.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.7.18.57103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.7.18.57103"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EssaFuscator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0-preview.18571.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RlKzUOKfzOvQsexDiEai+zgs5ZDM75D9awG+hPrAPq6iChW2opzjPruDwrhVq1n0HrCPbTfvrL6A6nL2+rDpnA==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0-preview.18571.3",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0-preview.18571.3.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.6.0-preview.18571.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MYFHOtbSfHdWXtG8gqqfFdEfy6mkIGqyIeI1H8U5ChlSx5/VW595B7JAtbX942lYUHzC6CXCcoILD7scN05c9Q==",
+      "path": "system.text.encoding.codepages/4.6.0-preview.18571.3",
+      "hashPath": "system.text.encoding.codepages.4.6.0-preview.18571.3.nupkg.sha512"
+    }
+  }
+}
