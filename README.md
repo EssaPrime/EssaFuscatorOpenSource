@@ -24,9 +24,9 @@ No.
 
 Yes.
 
-#### Can i use parts of the source for my own project?
+#### Where can i contact you?
 
-Yes.
+! EssaPrime#0001 [Click here for direct link](https://discord.com/users/217353461933670403)
 
 
 ## 
