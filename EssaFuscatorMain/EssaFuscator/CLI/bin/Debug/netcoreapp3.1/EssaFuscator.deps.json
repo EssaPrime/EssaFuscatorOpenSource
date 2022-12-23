@@ -1,0 +1,152 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EssaFuscator/1.0.0": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Common": "0.2.9",
+          "Loretta.CodeAnalysis.Lua": "0.2.9",
+          "Loretta.CodeAnalysis.Lua.Experimental": "0.2.9",
+          "MoonSharp": "2.0.0"
+        },
+        "runtime": {
+          "EssaFuscator.dll": {}
+        }
+      },
+      "Loretta.CodeAnalysis.Common/0.2.9": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Loretta.CodeAnalysis.dll": {
+            "assemblyVersion": "0.2.9.0",
+            "fileVersion": "0.2.9.0"
+          }
+        }
+      },
+      "Loretta.CodeAnalysis.Lua/0.2.9": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Common": "0.2.9",
+          "Tsu": "2.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Loretta.CodeAnalysis.Lua.dll": {
+            "assemblyVersion": "0.2.9.0",
+            "fileVersion": "0.2.9.0"
+          }
+        }
+      },
+      "Loretta.CodeAnalysis.Lua.Experimental/0.2.9": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Lua": "0.2.9",
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Loretta.CodeAnalysis.Lua.Experimental.dll": {
+            "assemblyVersion": "0.2.9.0",
+            "fileVersion": "0.2.9.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.NETCore.Platforms/2.1.2": {},
+      "MoonSharp/2.0.0": {
+        "runtime": {
+          "lib/netstandard1.6/MoonSharp.Interpreter.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {},
+      "System.Text.Encoding.CodePages/4.5.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.2",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        }
+      },
+      "Tsu/2.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/Tsu.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EssaFuscator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Loretta.CodeAnalysis.Common/0.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MpqV4eJRQT8ak5dkXgFAuqBN56GrBs5dzL6XLH9wJuSkr1nEGbGgyM0Vt+rC6sdoICegM1hYWqQYyIh6O5jnOQ==",
+      "path": "loretta.codeanalysis.common/0.2.9",
+      "hashPath": "loretta.codeanalysis.common.0.2.9.nupkg.sha512"
+    },
+    "Loretta.CodeAnalysis.Lua/0.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Z7ApBTVdgwJhkdTGWeJuafHBaOpw81PdrZQ7Rh6ei63fmAaD9W/LF842rXvyS3KKswjUnulQq8g108xuRyVIg==",
+      "path": "loretta.codeanalysis.lua/0.2.9",
+      "hashPath": "loretta.codeanalysis.lua.0.2.9.nupkg.sha512"
+    },
+    "Loretta.CodeAnalysis.Lua.Experimental/0.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IE3Mi2sZpIOuiJILpz6ZjrnuMIZ1MY+EsCCv3JPJMgq9/3V1uqLgnByMMRKIEt/ANHDfDjVBWyxcvEHpolWhzw==",
+      "path": "loretta.codeanalysis.lua.experimental/0.2.9",
+      "hashPath": "loretta.codeanalysis.lua.experimental.0.2.9.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mOJy3M0UN+LUG21dLGMxaWZEP6xYpQEpLuvuEQBaownaX4YuhH6NmNUlN9si+vNkAS6dwJ//N1O4DmLf2CikVg==",
+      "path": "microsoft.netcore.platforms/2.1.2",
+      "hashPath": "microsoft.netcore.platforms.2.1.2.nupkg.sha512"
+    },
+    "MoonSharp/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uiAcRh7d+53k3xW9pFDJfAFVw4RnjHVCJG05M3oPAVEVwPtFavhg1H/IpC6So4X1j9kJlzuLlA3OghhPcIvc5A==",
+      "path": "moonsharp/2.0.0",
+      "hashPath": "moonsharp.2.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4J2JQXbftjPMppIHJ7IC+VXQ9XfEagN92vZZNoG12i+zReYlim5dMoXFC1Zzg7tsnKDM7JPo5bYfFK4Jheq44w==",
+      "path": "system.text.encoding.codepages/4.5.1",
+      "hashPath": "system.text.encoding.codepages.4.5.1.nupkg.sha512"
+    },
+    "Tsu/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GFMaeEjCLJ86GRxnfysPt6U3MP7yOk9fNeDg3/T1DkzmXRYe6Tx0kEb5EbkA4bDADWFZIuS4pp1p2d7DOeUiBg==",
+      "path": "tsu/2.1.1",
+      "hashPath": "tsu.2.1.1.nupkg.sha512"
+    }
+  }
+}

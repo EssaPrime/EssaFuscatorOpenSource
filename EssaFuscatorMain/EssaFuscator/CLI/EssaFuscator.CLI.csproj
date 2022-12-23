@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EssaFuscator_CLI</RootNamespace>
+    <LangVersion>latestmajor</LangVersion>
+    <Nullable>enable</Nullable>
+    <PackageId>EssaFuscator.CLI</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EssaFuscator\EssaFuscator.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Loretta.CodeAnalysis.Common" Version="0.2.9" />
+    <PackageReference Include="Loretta.CodeAnalysis.Lua" Version="0.2.9" />
+    <PackageReference Include="Loretta.CodeAnalysis.Lua.Experimental" Version="0.2.9" />
+  </ItemGroup>
+
+</Project>
