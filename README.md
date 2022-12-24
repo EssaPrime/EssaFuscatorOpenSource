@@ -28,7 +28,9 @@ Yes.
 
 ! EssaPrime#0001 [Click here for direct link](https://discord.com/users/217353461933670403)
 
+#### Essafuscator uses Loretta to rewrite Syntax Trees
 
+[<img src="https://github.com/LorettaDevs/Graphics/blob/dist/logo_128x128.png" />](https://github.com/LorettaDevs/)
 ## 
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/720494690121809923/1055873530698399814/EssaFuscatorClean.png?width=128&height=128" alt="essaprime" /> </p>
